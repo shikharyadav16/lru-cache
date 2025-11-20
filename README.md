@@ -1,10 +1,10 @@
 ## LRU Cache
 
-> A lightweight, easy-to-understand implementation of an LRU Cache built entirely from scratch using core data structures. This project demonstrates how caching works internally, how to design efficient lookup/insert operations, and how to maintain usage order for fast eviction.
+A lightweight, easy-to-understand implementation of an LRU Cache built entirely from scratch using core data structures. This project demonstrates how caching works internally, how to design efficient lookup/insert operations, and how to maintain usage order for fast eviction.
 
 ### About the Project
 
-> The LRU Cache is a data structure that stores key–value pairs with a fixed capacity. When the cache is full and a new item is added, the least recently used entry is removed.
+The LRU Cache is a data structure that stores key–value pairs with a fixed capacity. When the cache is full and a new item is added, the least recently used entry is removed.
 
 This implementation focuses on:
 
@@ -29,8 +29,8 @@ This implementation focuses on:
 /lru-cache/
 │
 ├── src 
-|   ├── Cache.js
-|   └── Data.js
+│   ├── Cache.js
+│   └── Data.js
 └── index.js
 ```
 
