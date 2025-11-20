@@ -12,7 +12,7 @@ This implementation focuses on:
 - Using a HashMap for fast lookups
 - Using a Doubly Linked List for tracking usage
 - Clear and simple logic (no library shortcuts)
-- 
+
 > Perfect for learning low-level design, or integrating a custom cache into your applications.
 
 ### Features
